@@ -73,3 +73,4 @@ crashlytics-build.properties
 
 # JJC Assets
 /[Aa]ssets/[Rr]esources/[Pp]rojectAssets
+.vscode/settings.json
